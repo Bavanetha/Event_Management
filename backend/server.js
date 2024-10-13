@@ -14,7 +14,7 @@ app.use(express.json()); // Middleware to parse JSON bodies
 
 // Connect to MongoDB
 mongoose.connect('mongodb+srv://bavanethamr:jo74pzsv7Ueu09Ej@cluster0.pu5fr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', {
-  useNewUrlParser: true,
+
   useUnifiedTopology: true,
 })
   .then(() => console.log('Connected to MongoDB Atlas'))
