@@ -18,3 +18,12 @@ Event Management System is a MERN (MongoDB, Express, React, Node.js) web applica
 - **Backend:** Node.js, Express.js, MongoDB
 - **Additional Libraries:** Axios, bcrypt, jsonwebtoken
 
+### Prerequisites
+- **Node.js:** Ensure you have Node.js installed (version 14 or higher).
+- **MongoDB Atlas:** Sign up for a MongoDB Atlas account for a cloud database or install MongoDB locally.
+
+### Clone the Repository
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/Bavanetha/Event_Management.git
+   cd Event_Management
